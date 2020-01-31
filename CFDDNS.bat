@@ -13,8 +13,8 @@ set type=type
 ::NS_type 类型{A,AAAA,NS,TXT,.........}
 set email=email
 ::your_email 你的Cloudflare注册邮箱
-set authkey=authkey
-::your_authkey 你的auth_key
+set authkey=Global API Key
+::your_Global API Key 你的Global API Key
 set ip=ip
 ::your IPaddress or your record value 你的IP地址或记录值 such as:%ip4% or %ip6% or 0.0.0.0 or the other 
 ::%ip4% or %ip6% is the best choose for DDNS 填入%ip4%或%ip6%来动态更新你的DDNS是最好的选择
